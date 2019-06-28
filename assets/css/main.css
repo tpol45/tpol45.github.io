@@ -2633,9 +2633,9 @@ input, select, textarea {
 			}
 
 		.image.main {
-			display: block;
+			display: flex;
 			margin: 4rem 0;
-			width: 330px;
+			width: 40%;
 			justify-content: center;
 		}
 
@@ -3795,7 +3795,15 @@ input, select, textarea {
 
 			#main > .post.featured {
 				text-align: center;
-				justify-content: center;
+				/* display: flex;
+				justify-content: center; */
+
+			}
+
+			#main > .post.featuredinner {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 			@media screen and (max-width: 1280px) {
