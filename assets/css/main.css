@@ -3795,6 +3795,7 @@ input, select, textarea {
 
 			#main > .post.featured {
 				text-align: center;
+				justify-content: center;
 			}
 
 			@media screen and (max-width: 1280px) {
