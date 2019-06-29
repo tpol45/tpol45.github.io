@@ -2633,7 +2633,7 @@ input, select, textarea {
 			}
 
 		.image.main {
-			max-width: 35%;
+			max-width: 50%;
 		}
 
 			.image.main:first-child {
