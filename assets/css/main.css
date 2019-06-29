@@ -2636,7 +2636,7 @@ input, select, textarea {
 			display: flex;
 			margin: 4rem 0;
 			width: 40%;
-			justify-content: center;
+			align-items: center;
 		}
 
 			.image.main:first-child {
